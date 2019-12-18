@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis"
-	ssp "github.com/smw1218/sqrl-ssp"
+	ssp "github.com/sqrldev/server-go-ssp"
 )
 
 // Hoard implements an ssp.Hoard using redis as

@@ -5,7 +5,7 @@ import (
 	"time"
 
 	"github.com/go-redis/redis"
-	ssp "github.com/smw1218/sqrl-ssp"
+	ssp "github.com/sqrldev/server-go-ssp"
 )
 
 // Redis must be installed locally on the default port to run these tests
